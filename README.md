@@ -1,4 +1,4 @@
-# chat_app_with_tharwat_14_5_2023
+# chat_app
 
 A new Flutter project.
 
